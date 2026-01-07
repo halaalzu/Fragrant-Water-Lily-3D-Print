@@ -1,5 +1,3 @@
-# Fragrant-Water-Lily-3D-Print
-These are print files for a fragrant water-lily designed for a design course (BME 101L).
 # Fragrant Water-Lily Puzzle
 
 The **Fragrant Water-Lily** is a mechanical, 3D-printed puzzle inspired by the organic movement and structure of a water lily. The project explores rotational motion, gear mechanisms, and modular assembly through a flower-like form that opens and closes via interlocking components.
