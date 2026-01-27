@@ -1,84 +1,109 @@
-# Fragrant Water-Lily Puzzle
+# Fragrant Water-Lily 3D Print
 
-The **Fragrant Water-Lily** is a mechanical, 3D-printed puzzle inspired by the organic movement and structure of a water lily. The project explores rotational motion, gear mechanisms, and modular assembly through a flower-like form that opens and closes via interlocking components.
-
-This project was developed as part of a joint design and prototyping course project and emphasizes iterative design, mechanical problem-solving, and physical fabrication.
+A 3D-printed mechanical puzzle inspired by the organic motion of a water lily. This project was created for a design course (BME 101L) and explores rotational motion, gear mechanisms, modular assembly, and iterative prototyping through an artistic yet functional form.
 
 ---
 
-## Project Overview
+## Overview
 
-The puzzle consists of a central gear mechanism connected to multiple detachable petals. When the internal mechanism is rotated, the petals move in a coordinated motion, mimicking the opening and closing behavior of a water lily.
-
-The design combines:
-- Mechanical gears
-- Hinged and detachable components
-- A puzzle-like base assembly
-- Iterative refinement through physical prototyping
-
-The final object functions as both a mechanical puzzle and a sculptural desk object.
+The **Fragrant Water-Lily** is a sculptural puzzle that combines mechanics and aesthetics. When the internal mechanism is rotated, multiple petals move together, mimicking the opening and closing motion of a real water lily.
 
 ---
 
-## Key Features
+## 🎥 Mechanism in Action
 
-- **Gear-Driven Motion**  
-  A central gear drives the synchronized movement of the petals.
+This video demonstrates the internal gear system driving the synchronized petal motion.
 
-- **Detachable Petals**  
-  Individual petals can be removed and reassembled, adding a puzzle element to the object.
-
-- **Puzzle-Like Base**  
-  The base is composed of multiple parts that must be assembled correctly for the mechanism to function.
-
-- **Iterative Mechanical Design**  
-  The final design incorporates multiple improvements over earlier prototypes, including reinforced gears, thicker petals, and improved tolerances.
+https://github.com/halaalzu/Fragrant-Water-Lily-3D-Print/blob/main/media/Flower%20Mechanism%20Video.mov
 
 ---
 
-## Design & Iteration Process
+## 🧩 STL Print Layout
 
-The design evolved through several stages:
-- Early concept exploration and sketching
-- CAD development of gears, hinges, and base components
-- Initial 3D print testing that revealed mechanical failures
-- Refinement of gear direction, wall thickness, and petal strength
-- Final print with improved durability and functionality
+The layout of all STL files prepared for 3D printing.
 
-Key challenges included gear alignment, material fragility, and dimensional accuracy.
+![STL Print Layout](media/STL%20Print%20Layout.png)
 
 ---
 
-## Tools & Fabrication
+## 🌸 Final Assembled Project
 
-- CAD software: SolidWorks  
-- SolidWorks extensions: Slicer, Composer  
-- Fabrication method: FDM 3D printing  
-- Material: PLA
+Photos of the fully assembled Fragrant Water-Lily.
+
+<!--
+Upload final assembly photos to the /media folder and link them here.
+Example:
+![Final Assembly](media/Final_Assembly_1.png)
+-->
+
+---
+
+## Features
+
+- Gear-driven mechanism that synchronizes petal movement  
+- Detachable petals for modular assembly and puzzle interaction  
+- Multi-part base assembly with internal rotating components  
+- Iterative design refined through multiple prototypes  
+
+---
+
+## Tools & Materials
+
+- **CAD Software:** SolidWorks  
+- **3D Printing Method:** FDM (Fused Deposition Modeling)  
+- **Material:** PLA filament  
+
+---
+
+## Repository Contents
+
+- **Water-Lily Assembly Instructions.pdf** – Step-by-step assembly guide  
+- **Parts/** – STL files for all printable components  
+- **Assembly/** – Supporting assembly files  
+- **media/** – Images and videos documenting the design and final project  
+
+---
+
+## Printing & Assembly
+
+1. Print all parts using your preferred slicer (e.g. Cura, PrusaSlicer).  
+2. Use standard PLA settings; ensure good layer adhesion for small gears.  
+3. Follow **Water-Lily Assembly Instructions.pdf** to assemble the base, gears, and petals.  
+4. Test rotation and adjust fit as needed for smooth motion.
+
+**Tip:** Accurate printer calibration and tolerances are critical for reliable gear movement.
+
+---
+
+## Design Process
+
+- Concept development inspired by natural motion  
+- CAD modeling of gears, base, and petals  
+- Test prints to evaluate fit, strength, and motion  
+- Iterative redesign to improve durability and usability  
 
 ---
 
 ## Lessons Learned
 
-- Gear mechanisms require precise tolerances to function reliably
-- Small dimensional errors can prevent full mechanical assembly
-- Iterative prototyping is essential for functional mechanical designs
-- Reinforcing thin features significantly improves print durability
+- Tight tolerances are essential in mechanical 3D prints  
+- Iterative prototyping significantly improves performance  
+- Reinforcing thin features increases part longevity  
 
 ---
 
 ## Future Improvements
 
-Potential future iterations could include:
-- Enclosing or covering exposed gears
-- Adjusting petal spacing for smoother motion
-- Redesigning the central pin to allow easier disassembly
+- Enclose exposed gears for improved aesthetics and protection  
+- Refine petal spacing for smoother motion  
+- Improve ease of disassembly for maintenance  
 
 ---
 
 ## Credits
 
 Designed and prototyped by:
+
 - Hala Alzureiqi  
 - Penny Leong  
 - Ruthie Zhang  
@@ -90,3 +115,4 @@ Designed and prototyped by:
 ## License
 
 This project is shared for educational and portfolio purposes. All design files are original unless otherwise noted.
+
