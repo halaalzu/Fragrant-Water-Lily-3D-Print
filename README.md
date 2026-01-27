@@ -28,16 +28,6 @@ Photos of the fully assembled Fragrant Water-Lily.
 
 ---
 
-
-## 🧩 STL Print Layout
-
-The layout of all STL files prepared for 3D printing.
-
-![STL Print Layout](media/STL%20Print%20Layout.png)
-
----
-
-
 ## Features
 
 - Gear-driven mechanism that synchronizes petal movement  
@@ -98,6 +88,15 @@ The layout of all STL files prepared for 3D printing.
 - Improve ease of disassembly for maintenance  
 
 ---
+
+## 🧩 STL Print Layout
+
+The layout of all STL files prepared for 3D printing.
+
+![STL Print Layout](media/STL%20Print%20Layout.png)
+
+---
+
 
 ## Credits
 
