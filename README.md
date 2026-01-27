@@ -6,7 +6,7 @@ A 3D-printed mechanical puzzle inspired by the organic motion of a water lily. T
 
 ## Overview
 
-The **Fragrant Water-Lily** is a sculptural puzzle that combines mechanics and aesthetics. When the internal mechanism is rotated, multiple petals move together, mimicking the opening and closing motion of a real water lily.
+The **Fragrant Water-Lily** is a  puzzle that combines mechanics and aesthetics. When the internal mechanism is rotated, multiple petals move together, mimicking the opening and closing motion of a real water lily.
 
 ---
 
@@ -18,6 +18,17 @@ https://github.com/halaalzu/Fragrant-Water-Lily-3D-Print/blob/main/media/Flower%
 
 ---
 
+
+## 🌸 Final Assembled Project
+
+Photos of the fully assembled Fragrant Water-Lily.
+
+![Final Model – Top View](media/Final%20Model%20(Top-View).jpeg)
+
+
+---
+
+
 ## 🧩 STL Print Layout
 
 The layout of all STL files prepared for 3D printing.
@@ -26,17 +37,6 @@ The layout of all STL files prepared for 3D printing.
 
 ---
 
-## 🌸 Final Assembled Project
-
-Photos of the fully assembled Fragrant Water-Lily.
-
-<!--
-Upload final assembly photos to the /media folder and link them here.
-Example:
-![Final Assembly](media/Final_Assembly_1.png)
--->
-
----
 
 ## Features
 
@@ -49,8 +49,7 @@ Example:
 
 ## Tools & Materials
 
-- **CAD Software:** SolidWorks  
-- **3D Printing Method:** FDM (Fused Deposition Modeling)  
+- **CAD Software:** SolidWorks    
 - **Material:** PLA filament  
 
 ---
